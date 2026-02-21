@@ -7,29 +7,20 @@ This project is a responsive and interactive web application built using HTML, C
 🚀 Features
 
 * Dynamic profile card rendering
-
 * ES6 Module import/export structure
-
 * Swiper.js integration for smooth sliders
-
 * Smart image fallback handling
-
 * Interactive button event listeners
-
 * Clean and minimal Figma-inspired UI
-
 * Fully responsive design
-
 * Organized and modular code structure
+
 
 🛠️ Technologies Used
 
 - HTML5
-
 - CSS3
-
 - JavaScript (ES6 Modules)
-
 - Swiper.js
 
 
